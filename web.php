@@ -398,6 +398,7 @@ echo "$sores";
 echo "</td>";
 echo "</tr>";
 echo "</table>";
-echo "</body>";			
+echo "</body>";	
+			
 }
 ?>
